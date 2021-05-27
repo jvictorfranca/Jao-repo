@@ -1,0 +1,25 @@
+.img{
+   border-radius: 15px;
+   padding: 10px 10px 10px 10px;
+   background-color: purple;
+   text-align: center;
+   
+   }
+   .img2{
+      text-align: center;
+   }
+   
+   body{
+   
+      background-color:white;
+   }
+
+   p{
+      font-size: 30px;
+      font-weight: 700;
+      text-decoration:underline ;
+   }
+   li{
+      color:black;
+
+   }

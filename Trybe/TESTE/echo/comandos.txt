@@ -1,0 +1,15 @@
+    1  ls
+    2  cd Desktop
+    3  ls
+    4  cd TESTE
+    5  cd ~
+    6  cd
+    7  ls
+    8  echo $SHELL
+    9  git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+   10  plugins=(zsh-autosuggestions)
+   11  ls
+   12  sudo apt install zsh-autosuggestions
+   13  ls
+   14  cd Desktop
+   15  ls 

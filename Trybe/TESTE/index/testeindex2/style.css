@@ -1,0 +1,59 @@
+div{
+border: black solid 1px;
+
+}
+
+#artigo{
+   height: 1000px;
+   background-color: lightblue;
+}
+
+#cabeçalio{
+   height: 10%;
+   background-color: lightcoral;
+   margin: 10px;
+}
+
+#conteudo{
+height: 70%;
+background-color: lightcyan;
+margin: 10px;
+
+}
+
+#rodape{
+   height: 13%;
+   background-color: lightgreen;
+   margin: 10px;
+}
+
+#texto{
+   display: inline-block;
+   height: 90%;
+   width: 70%;
+   background-color: lightseagreen;
+   margin: 10px;
+   padding: 0px;
+}
+
+#sidebar{
+   display: inline-block;
+   
+   width: 20%;
+   margin: 10px;
+   background-color: lightslategray;
+   position: absolute;
+
+
+}
+
+#texto1{
+  
+  padding: 0px;
+  margin: 0px;
+}
+
+
+h3{
+   text-align: center;
+}
